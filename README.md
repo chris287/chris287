@@ -54,5 +54,6 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/christopher-fernandes-5b041417b/
