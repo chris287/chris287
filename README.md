@@ -48,10 +48,10 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-    [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287&show_icons=true&theme=radical)](https://github.com/chris287/github-readme-stats)
-    <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
+<summary>:zap: GitHub Stats</summary>
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287&show_icons=true&theme=radical)](https://github.com/chris287/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
 </details>
 
 
