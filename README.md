@@ -54,6 +54,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris287&repo=github-readme-stats)](https://github.com/chris287/github-readme-stats)
+
 <br />
 </details>
 
