@@ -48,9 +48,10 @@
 </details>
 
 <details>
-<summary>:zap: GitHub Stats</summary>
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287&show_icons=true&theme=radical)](https://github.com/chris287/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
 </details>
 
 
