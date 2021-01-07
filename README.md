@@ -51,9 +51,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287&show_icons=true&theme=radical)](https://github.com/chris287/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/christopher-fernandes-5b041417b/
