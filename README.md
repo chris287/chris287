@@ -52,6 +52,7 @@
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287)](https://github.com/chris287/github-readme-stats)
 
+<br />
 </details>
 
 
