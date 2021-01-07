@@ -52,7 +52,7 @@
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287)](https://github.com/chris287/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact)](https://github.com/chris287/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris287&layout=compact&langs_count=8)](https://github.com/chris287/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris287&repo=linkedin-share-api-v2)](https://github.com/chris287/linkedin-share-api-v2)
 
