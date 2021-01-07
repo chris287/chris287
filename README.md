@@ -36,10 +36,8 @@
 
 <br />
 <br />
-
-
-
---- 
+---
+ 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -52,7 +50,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287)](https://github.com/chris287/github-readme-stats)
+  [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chris287&show_icons=true&theme=radical)](https://github.com/chris287/github-readme-stats)
 
 </details>
 
