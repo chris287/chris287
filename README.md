@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate with AWS developers
-- 🥅 2021 Goals: Learn new techs!
+- 🥅 2022 Goals: Learn new techs!
 - ⚡ Fun fact: I love to play drums, keys. Interested in gardening. But i'm super lazy too 🤣
 
 ### Spotify Playing 🎧
